@@ -22,7 +22,7 @@ collaborators:
   - "Peter McDonald"
   - "Luke Einoder"
 header:
-  teaser: "assets/images/projects/BellatoriasCJ.png"
+  teaser: "assets/images/BellatoriasCJ.png"
 gallery:
   - image_path: 
     image_caption: 

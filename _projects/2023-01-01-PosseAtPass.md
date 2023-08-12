@@ -19,7 +19,7 @@ collaborators:
   - "Robyn Shaw"
   - "Anthony Santoro"
 header:
-  teaser: "assets/images/projects/unknownbuggything.png"
+  teaser: "assets/images/unknownbuggything.png"
 gallery:
   - image_path: 
     image_caption: 

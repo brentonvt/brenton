@@ -17,7 +17,7 @@ collaborators:
   - "Alana de Laive"
   - "Luke Allen"
 header:
-  teaser: "assets/images/projects/lessblackwhip.png"
+  teaser: "assets/images/lessblackwhip.png"
 gallery:
   - image_path: 
     image_caption: 

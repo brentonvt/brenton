@@ -27,7 +27,7 @@ collaborators:
   - "Ben Phillips"
 
 header:
-  teaser: "assets/images/projects/BFTR.png"
+  teaser: "assets/images/BFTR.png"
 gallery:
   - image_path: 
     image_caption: 
