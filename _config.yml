@@ -131,6 +131,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: project
+      author_profile: false
+      classes: wide
+      sidebar: true
 
 category_archive:
   type: liquid
