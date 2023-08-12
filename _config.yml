@@ -90,6 +90,9 @@ author:
       icon: "fab fa-keybase"
       url: "https://keybase.io/brentonvt"
 
+atom_feed:
+  hide: true
+
 collections:
   projects:
     output: true
