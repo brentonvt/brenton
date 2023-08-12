@@ -9,4 +9,4 @@ sort_by: start_date
 sort_order: reverse
 ---
 
-Some of the projects I've led or been involved with.
+Some of the projects I am, or have been, involved with:
