@@ -3,7 +3,7 @@ permalink: /publications/
 title: Publications
 author_profile: false
 classes: wide
-date: 2023-07-30
+date: 2023-08-12
 ---
              
 A list of my publications
