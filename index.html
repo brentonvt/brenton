@@ -1,7 +1,53 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+title: Brenton von Takach
+classes:
+  - landing
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.00"
+  overlay_image: /assets/images/oedura.png
+excerpt: ""
+intro: 
+  - excerpt: 'Conservation Biology | Population Genomics | Evolutionary Biology | Landscape Ecology'
+feature_row:
+  - image_path: assets/images/goldencrown.png
+    alt: "placeholder image 1"
+    title: "About"
+    excerpt: "Brenton is a research fellow and Premier's EMC Fellow @ Curtin University"
+    url: "/about/"
+    btn_label: "About us"
+    btn_class: "btn--primary"
+  - image_path: assets/images/notaden.png
+    alt: "placeholder image 2"
+    title: "Publications"
+    excerpt: "I publish on a wide range of ecological topics using a range of taxa."
+    url: "/publications/"
+    btn_label: "Publications"
+    btn_class: "btn--primary"
+  - image_path: assets/images/whiteface.png
+    title: "Projects"
+    excerpt: "My projects apply contemporary methods to critical problems in landscape management and the conservation of biodiversity."
+    url: "/projects/"
+    btn_label: "Projects"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: assets/images/kabarlCamp.png
+    alt: "placeholder image 2"
+    excerpt: "...and we have fun along the way."
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+<!---
+{% include feature_row id="feature_row2" type="center" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+<p>Some content</p>
+
+--->
