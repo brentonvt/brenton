@@ -6,7 +6,7 @@ classes: wide
 date: 2023-08-12
 ---
              
-Here's a list of my publications. If you'd like a PDF reprint of any article, feel free to get in touch via [email](mailto:brenton.vontakach@curtin.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Brenton-Von-Takach) if you'd like a PDF reprint of any article.
+Here's a list of all my publications to date. If you'd like a PDF reprint of any article, feel free to get in touch via [email](mailto:brenton.vontakach@curtin.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Brenton-Von-Takach).
 
 
 Lettoof, Damian. Christopher, Parkin, Tom, Jolly, Chris. James, de Laive, Alana, von Takach, Brenton (2023).  Snake life history traits and their association with urban habitat use in a tropical city  *Urban Ecosystems*. **26**:433–445.
