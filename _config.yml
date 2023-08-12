@@ -85,6 +85,10 @@ author:
       icon: "fab fa-keybase"
       url: "https://keybase.io/brentonvt"
 
+collections:
+  projects:
+    output: true
+
 footer:
   links:
     - label: "Team Website"
