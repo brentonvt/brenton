@@ -14,10 +14,7 @@ Lettoof, Damian. Christopher, Parkin, Tom, Jolly, Chris. James, de Laive, Alana,
  
 Walsh, Sean. F., Trouvé, Raphaël, Vesk, Peter. A., von Takach, Brenton, Nitschke, Craig. R. (2022).  The cost of fruit and the penalty of youth: Predicting mean annual seed production in single-species forest stands  *Forest Ecology and Management*. **508**:119978.
 
- 
-von Takach, Brenton, Ranjard, Louis, Burridge, Christopher. P., Cameron, Skye. F., Cremona, Teigan, Eldridge, Mark. D.. B., Fisher, Diana. O., Frankenberg, Stephen, Hill, Brydie. M., Hohnen, Rosemary, Jolly, Chris. J., Kelly, Ella, MacDonald, Anna. J., Moussalli, Adnan, Ottewell, Kym, Phillips, Ben. L., Radford, Ian. J., Spencer, Peter. B.. S., Trewella, Gavin. J., Umbrello, Linette. S., Banks, Sam. C. (2022).  Population genomics of a predatory mammal reveals patterns of decline and impacts of exposure to toxic toads  *Molecular Ecology*. **31**:5468--5486.
 
- 
 von Takach, Brenton, Ranjard, Louis, Burridge, Christopher. P., Cameron, Skye. F., Cremona, Teigan, Eldridge, Mark. D.. B., Fisher, Diana. O., Frankenberg, Stephen, Hill, Brydie. M., Hohnen, Rosemary, Jolly, Chris. J., Kelly, Ella, MacDonald, Anna. J., Moussalli, Adnan, Ottewell, Kym, Phillips, Ben. L., Radford, Ian. J., Spencer, Peter. B.. S., Trewella, Gavin. J., Umbrello, Linette. S., Banks, Sam. C. (2022).  Population genomics of a predatory mammal reveals patterns of decline and impacts of exposure to toxic toads  *Molecular Ecology*. **31**:5468--5486.
 
  
