@@ -9,4 +9,4 @@ sort_by: start_date
 sort_order: reverse
 ---
 
-Some of our projects (current and historical).
+Some of the projects I've led or been involved with.
