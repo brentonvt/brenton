@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 author_profile: false
 sidebar:
-  - image: "assets/images/cleo_needles.jpg"
   - image: "assets/images/crinia_georgiana.jpg"
+  - image: "assets/images/cleo_needles.jpg"
   - image: "assets/images/desert_death_adder.jpg"
 ---
 
