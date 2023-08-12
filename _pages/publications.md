@@ -9,7 +9,7 @@ date: 2023-08-12
 A list of my publications
 
 
-Lettoof, Damian. Christopher, Parkin, Tom, Jolly, Chris. James, de Laive, Alana, von Takach, Brenton (2023).  Snake life history traits and their association with urban habitat use in a tropical city  *Urban Ecosystems*. ****:.
+Lettoof, Damian. Christopher, Parkin, Tom, Jolly, Chris. James, de Laive, Alana, von Takach, Brenton (2023).  Snake life history traits and their association with urban habitat use in a tropical city  *Urban Ecosystems*. **26**:433–445.
 
  
 Walsh, Sean. F., Trouvé, Raphaël, Vesk, Peter. A., von Takach, Brenton, Nitschke, Craig. R. (2022).  The cost of fruit and the penalty of youth: Predicting mean annual seed production in single-species forest stands  *Forest Ecology and Management*. **508**:119978.
