@@ -1,8 +1,13 @@
 ---
 permalink: /about/
 title: "About"
+sidebar:
+  - image: "assets/images/cleo_needles.jpg"
+  - image: "assets/images/crinia_georgiana.jpg"
+  - image: "assets/images/desert_death_adder.jpg"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Brenton is a Research Fellow and WA Premier's EMC Fellow in the School of Molecular and Life Sciences at Curtin University in Perth. Broadly, he uses environmental, spatial, and genomic data to improve conservation management of threatened species and ecosystems. His publications focus on the topics of conservation ecology, population genomics, threatened species management, population demographics, landscape ecology and urban ecology.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Brenton is a former Forrest Prospect Fellow at Curtin, focussing on the environmental, geographic and genomic processes involved in the decline of mammal species in Australia. Prior to this, Brenton worked at Charles Darwin University, helping to disentangle the drivers of vertebrate extinction in tropical savanna ecosystems. He completed his PhD in 2019 at The Australian National University in Canberra, which explored the genomic and demographic impacts of wildfire and logging on forest trees in southern Australia.
+
