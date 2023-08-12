@@ -27,7 +27,7 @@ von Takach, Brenton, Jolly, Chris. J., Dixon, Kelly. M., Penton, Cara. E., Doher
 Scheele, Ben. C., Brawata, Renee. L., Hoffmann, Emily. P., Loneragan, Rachael, May, Sarah, Pierson, Jennifer, Sopniewski, Jarrod. D., von Takach, Brenton (2022).  Identifying and assessing assisted colonisation sites for a frog species threatened by chytrid fungus  *Ecological Management & Restoration*. **23**(2): 194–198.
 
  
-Cremona, Teigan, Banks, Sam. C., Davies, Hugh. F., Geyle, Hayley. M., Penton, Cara. E., Stobo-Wilson, Alyson. M., von Takach, Brenton, Trewella, Gavin. J., Murphy, Brett. P. (2022).  On the brink of extinction: the small mammal decline in northern Australia in In ‘Imperiled: The Encyclopedia of Conservation’. (Elsevier) Eds: DellaSala, D. A., Goldstein, M. I.
+Cremona, Teigan, Banks, Sam. C., Davies, Hugh. F., Geyle, Hayley. M., Penton, Cara. E., Stobo-Wilson, Alyson. M., von Takach, Brenton, Trewella, Gavin. J., Murphy, Brett. P. (2022).  On the brink of extinction: the small mammal decline in northern Australia. In ‘Imperiled: The Encyclopedia of Conservation’. (Elsevier) Eds: DellaSala, D. A., Goldstein, M. I.
 
 
 von Takach, Brenton, Penton, Cara. E., Murphy, Brett. P., Radford, Ian. J., Davies, Hugh. F., Hill, Brydie. M., Banks, Sam. C. (2021).  Population genomics and conservation management of a declining tropical rodent  *Heredity*. **126**:763--775.
