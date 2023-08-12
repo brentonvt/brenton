@@ -144,7 +144,7 @@ defaults:
       header:
         overlay_color: "#000"
         overlay_filter: "0.00"
-        overlay_image: /assets/images/oedura.png
+        overlay_image: /assets/images/wallumsedgefrog.png
   # _projects
   - scope:
       path: "_projects"
