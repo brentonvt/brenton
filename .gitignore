@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 .Rproj.user
 brenton.Rproj
+.Rhistory
+.DS_store
