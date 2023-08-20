@@ -25,10 +25,10 @@ gallery:
 Anthropogenic influences are modifying the natural disturbance regimes of forest ecosystems globally. Timber harvesting, frequent wildfires and a changing climate are influencing ecosystem composition, structure and function, with resulting losses to biodiversity and economic indicators. In south-eastern Australia, these factors are causing the rapid ecosystem collapse of montane forests, where foundation species rely on particular fire regimes for regeneration and maintenance of ecosystem integrity.
 
 During this thoroughly enjoyable PhD project, we endeavoured to characterise and quantify the demographic and genetic impacts that changing environments are having on mountain ash (*Eucalyptus regnans*), a foundation species and one of the world’s tallest trees. We investigated a range of topics, including:
-# the response of growth rates and seed production to stand age under different environmental conditions, 
-# the extent of hybridisation with messmate stringybark (*Eucalyptus obliqua*),
-# whether fire and silvicultural practices are modifying patterns of within- and among-population genetic diversity and fine-scale spatial genetic structure of mountain ash in the Central Highlands of Victoria, and
-# signatures of local adaptation in the mountain ash genome at a regional and range-wide spatial scale.
+1. the response of growth rates and seed production to stand age under different environmental conditions, 
+2. the extent of hybridisation with messmate stringybark (*Eucalyptus obliqua*),
+3. whether fire and silvicultural practices are modifying patterns of within- and among-population genetic diversity and fine-scale spatial genetic structure of mountain ash in the Central Highlands of Victoria, and
+4. signatures of local adaptation in the mountain ash genome at a regional and range-wide spatial scale.
 
 {% if gallery %}
 {% include gallery caption = "images relevant to the project"%}
@@ -45,8 +45,6 @@ This project produced novel insights into the demographic and genetic impacts th
 von Takach, B., Ahrens, C. W., Lindenmayer, D. B., and Banks, S. C. (2021) Scale-dependent signatures of local adaptation in a foundation tree species. *Molecular Ecology* **30**, 2248–2261. https://doi.org/10.1111/mec.15894.
 
 von Takach Dukai, B., Peakall, R., Lindenmayer, D. B., and Banks, S. C. (2020). The influence of fire and silvicultural practices on the landscape-scale genetic structure of an Australian foundation tree species. *Conservation Genetics* **21**, 231–246.  https://doi:10.1007/s10592-019-01245-6.
-
-von Takach, B., Scheele, B. C., Moore, H., Murphy, B. P., and Banks, S. C. (2020). Patterns of niche contraction identify vital refuge areas for declining mammals. *Diversity and Distributions* **26**, 1467-1482. https://doi:10.1111/ddi.13145.
 
 von Takach Dukai, B., Jack, C., Borevitz, J., Lindenmayer, D. B., and Banks, S. C. (2019). Pervasive admixture between eucalypt species has consequences for conservation and assisted migration. *Evolutionary Applications* **12**, 845–860. https://doi:10.1111/eva.12761.
 
