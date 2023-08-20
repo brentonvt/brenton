@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+author_profile: true
 layout: collection
 collection: projects
 permalink: /projects/
