@@ -42,10 +42,10 @@ This project produced novel insights into the demographic and genetic impacts th
 
 ## Selected publications
 
-von Takach, B., Ahrens, C. W., Lindenmayer, D. B., and Banks, S. C. (2021) Scale-dependent signatures of local adaptation in a foundation tree species. *Molecular Ecology* **30**, 2248–2261. https://doi.org/10.1111/mec.15894.
+von Takach, B., Ahrens, C. W., Lindenmayer, D. B., and Banks, S. C. (2021) Scale-dependent signatures of local adaptation in a foundation tree species. *Molecular Ecology* **30**, 2248–2261. [https://doi.org/10.1111/mec.15894](https://doi.org/10.1111/mec.15894).
 
-von Takach Dukai, B., Peakall, R., Lindenmayer, D. B., and Banks, S. C. (2020). The influence of fire and silvicultural practices on the landscape-scale genetic structure of an Australian foundation tree species. *Conservation Genetics* **21**, 231–246.  https://doi:10.1007/s10592-019-01245-6.
+von Takach Dukai, B., Peakall, R., Lindenmayer, D. B., and Banks, S. C. (2020). The influence of fire and silvicultural practices on the landscape-scale genetic structure of an Australian foundation tree species. *Conservation Genetics* **21**, 231–246.  [https://doi:10.1007/s10592-019-01245-6](https://doi:10.1007/s10592-019-01245-6).
 
-von Takach Dukai, B., Jack, C., Borevitz, J., Lindenmayer, D. B., and Banks, S. C. (2019). Pervasive admixture between eucalypt species has consequences for conservation and assisted migration. *Evolutionary Applications* **12**, 845–860. https://doi:10.1111/eva.12761.
+von Takach Dukai, B., Jack, C., Borevitz, J., Lindenmayer, D. B., and Banks, S. C. (2019). Pervasive admixture between eucalypt species has consequences for conservation and assisted migration. *Evolutionary Applications* **12**, 845–860. [https://doi:10.1111/eva.12761](https://doi:10.1111/eva.12761).
 
-von Takach Dukai, B., Lindenmayer, D. B., and Banks, S. C. (2018). Environmental influences on growth and reproductive maturation of a keystone forest tree: Implications for obligate seeder susceptibility to frequent fire. *Forest Ecology and Management* **411**, 108–119. https://doi.org/10.1016/j.foreco.2018.01.014.
+von Takach Dukai, B., Lindenmayer, D. B., and Banks, S. C. (2018). Environmental influences on growth and reproductive maturation of a keystone forest tree: Implications for obligate seeder susceptibility to frequent fire. *Forest Ecology and Management* **411**, 108–119. [https://doi.org/10.1016/j.foreco.2018.01.014](https://doi.org/10.1016/j.foreco.2018.01.014).
