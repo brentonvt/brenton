@@ -39,7 +39,7 @@ von Takach Dukai, B., Peakall, R., Lindenmayer, D. B., and Banks, S. C. (2020). 
 
 von Takach, B., Scheele, B. C., Moore, H., Murphy, B. P., and Banks, S. C. (2020). Patterns of niche contraction identify vital refuge areas for declining mammals. *Diversity and Distributions* **26**, 1467-1482. [https://doi.org/10.1111/ddi.13145](https://doi.org/10.1111/ddi.13145).
 
-Lettoof, D., von Takach, B., Bateman, P. W., Gagnon, M. M., and Aubret, F. (2020). Investigating the role of urbanisation, wetlands and climatic conditions in nematode parasitism in a large Australian elapid snake. *International Journal for Parasitology: Parasites and Wildlife* **11**, 32–39. [https://doi:10.1016/j.ijppaw.2019.11.006](https://doi:10.1016/j.ijppaw.2019.11.006).
+Lettoof, D., von Takach, B., Bateman, P. W., Gagnon, M. M., and Aubret, F. (2020). Investigating the role of urbanisation, wetlands and climatic conditions in nematode parasitism in a large Australian elapid snake. *International Journal for Parasitology: Parasites and Wildlife* **11**, 32–39. [https://doi.org/10.1016/j.ijppaw.2019.11.006](https://doi.org/10.1016/j.ijppaw.2019.11.006).
 
 Parkin, T., Jolly, C. J., de Laive, A., and von Takach, B. (2020). Snakes on an urban plain: temporal patterns of snake activity and human-snake conflict in Darwin, Australia. *Austral Ecology* **46**, 449–462. [https://doi.org/10.1111/aec.12990](https://doi.org/10.1111/aec.12990).
 
